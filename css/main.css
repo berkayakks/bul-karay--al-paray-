@@ -1,0 +1,47 @@
+#kartlar{
+	width: 600px;
+	height: 300px;
+	position: absolute;
+	z-index: -1;
+	margin: 0 auto;
+
+}
+
+img{
+	width: 200px;
+	height: 300px;
+	float: left;
+}
+
+p{
+	clear: both;
+
+}
+.resim{
+	position:relative;
+}
+button{
+	width: 200px;
+	height: 50px;
+	background-color: green;
+	color: white;
+	margin-left: 200px;
+	margin-bottom: 20px;
+}
+#sonuc{
+	font-size: 20px;
+	padding: 10px;
+	background-color: #333;
+	color: white;
+	text-align: center;
+	border: 3px solid red;
+}
+body {
+  	background-image: url(https://wallpaper.wiki/wp-content/uploads/2017/05/wallpaper.wiki-Download-Lime-Green-Picture-Free-PIC-WPE003237.jpg);
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	background-size: cover;
+  	overflow: hidden;
+   
+}
+
